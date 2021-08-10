@@ -1,9 +1,12 @@
+<div>
+
 ## MICROSERVICE PARA ENVIO DE E-MAIL <img alt="gif de e-mail" height="80" src="https://cdn.streamelements.com/uploads/2b04975c-4e9d-4ef7-8973-8008397990ba.gif">
 ### Tecnologias usadas:
-<img alt="java" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
-<img alt="spring" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-<img alt="postgresql" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-<img alt="postgresql" height="80" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png">
+<img alt="java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
+<img alt="spring" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+<img alt="postgresql" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img alt="postgresql" height="50" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png">
+</div>
 
 #
 O e-mail recebe um **JSON** com:
@@ -24,4 +27,3 @@ Este é o resultado no banco de dados:
 
 E na caixa de e-mail:
 <img alt="postgresql" src="https://lh3.googleusercontent.com/VqHaPSALOvz0bJzMzBkfOL2DBIb2odNbyZfNMqGqiahptKdo3PNTnqs_E32H6SE7zdwP9pfUN8kdf5vOzcku3-iSJlm-ZF1KciiRjD1CzOwAB0bb77geH4LrOo_I5m6iUyInpRj8Y71xVS0xsKvN5NM_xji2fxzfo2M0k_4hYVF9yPkKxnfQj9Yu1vJlS_h-5GUSqyJQWKaZnsojL56VsD5J7YR7QL2j06hK93ojBokn5giS4AMR6_8cJklnkoE6KCjovYvDW2OwP9aiYFVIiZ-B2EBqoY3J4ErpfNvVCn0xxJAaMECBteEM-LGMhfYx5cpVnffTFz-HkVvah7jfkWP5nS7gxGkRwqCBDvKT4_WsOijtNRPvMJvcdub_Leb95iiLzHKlQvjgU3H5R7su3c3CuqORJ6YlCTmFy7YusPA0-Gd8f4A8k_8UmEe9kXHqmqmEMc322atSTX515RzZjckbN2H5XXNZP9Y4eL-uEMDRYjfy3f-gV7ZZ1eyP-dmXTcPJue-WrCoYC-Yat7bqo9_FDeMiisbu0ZDrQDk5WBpkgweY1w4z_Mva24fbXOyjAK27runAvQVzA3i2oNBL_r5zXdmw3BE2Ld0WFkmCyNhd4alGNzuJMq4oKiMnQutBG6mgDWY3h95NPlPhgFssgSL-Jj6y7kOf1P5xxnpuJeH2mrVYwikDvPGVUzlB7JZNBKNqBy84SqEu2aXGwxrYbbA=w1775-h396-no?authuser=0">
-
